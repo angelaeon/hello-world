@@ -1,3 +1,2 @@
-# hello-world
-prueba
-no tengo ni idea de que poner en este archivo de prueba
+Inkipedia
+https://splatoonwiki.org/wiki/Main_Page
